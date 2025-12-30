@@ -11,9 +11,9 @@ npm install
 
  === ОБЯЗАТЕЛЬНЫЕ ПАРАМЕТРЫ ===
 
-TELEGRAM_BOT_TOKEN= Токен вашего бота (получите у @BotFather)
+TELEGRAM_BOT_TOKEN= Токен вашего бота (@BotFather)
 
-CHAT_ID= ID чата куда отправлять заявки (узнайте у @userinfobot)
+CHAT_ID= ID чата куда отправлять заявки (@userinfobot)
 
 === ОПЦИОНАЛЬНЫЕ НАСТРОЙКИ ===
 
@@ -23,5 +23,5 @@ COMPANY_NAME=Моя компания
 Сайт компании (для ссылки)
 COMPANY_URL=https://мойсайт.ru
 
-Файл для логов (по умолчанию: requests.log)
+Файл для логов (по умолчанию)
 LOG_FILE=requests.log

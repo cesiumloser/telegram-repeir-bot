@@ -1,7 +1,35 @@
 {
+  "name": "telegram-repair-bot",
+  "version": "1.0.0",
+  "description": "Universal Telegram bot for accepting repair/service requests",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "repair",
+    "service",
+    "requests",
+    "application"
+  ],
+  "author": "",
+  "license": "MIT",
   "dependencies": {
     "dotenv": "^17.2.1",
-    "node-telegram-bot-api": "^0.66.0",
-    "telegraf": "^4.16.3"
-  }
+    "node-telegram-bot-api": "^0.66.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/telegram-repair-bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/telegram-repair-bot/issues"
+  },
+  "homepage": "https://github.com/yourusername/telegram-repair-bot#readme"
 }

@@ -3,7 +3,9 @@
 1. Установка
 
 git clone https://github.com/cesiumloser/telegram-repair-bot.git
+
 cd telegram-bot
+
 npm install
 
 2. Настройка .env файла
